@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 <!--   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
  <br>
  </div>
-
-![snake gif](https://github.com/MateusGutierrez/MateusGutierrez/blob/output/github-contribution-grid-snake.svg)
+ 
+<img src="https://github.com/gustavohgmartins/gustavohgmartins/blob/output/github-contribution-grid-snake.svg">
