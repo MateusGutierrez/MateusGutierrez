@@ -2,7 +2,7 @@
 
  - ⚡ Atualmente sou estudante de Desenvolvimento Fullstack e monitor do primeiro módulo na Kenzie Academy Brasil;
  - ⚡ Estou em busca de me tornar um excelente profissional;
- - ⚡ Contate-me no Linkedin : Mateus Gutierrez;
+ - ⚡ Contate-me no Linkedin : Mateus Gutierrez(https:https://www.linkedin.com/in/mateus-gutierrez-a991aa1b9/);
  - ⚡ Contate-me no e-mail: mateusgutierrez9@gmail.com
 
 <!--
