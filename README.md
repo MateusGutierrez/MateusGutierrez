@@ -1,9 +1,8 @@
 ### Olá! Eu sou o Mateus! 👋
 
- - ⚡ Atualmente sou estudante de Desenvolvimento Fullstack e monitor do primeiro módulo na Kenzie Academy Brasil;
- - ⚡ Estou em busca de me tornar um excelente profissional;
- - ⚡ Contate-me no Linkedin : [Mateus Gutierrez](https:https://www.linkedin.com/in/mateus-gutierrez-a991aa1b9);
- - ⚡ Contate-me no e-mail: mateusgutierrez9@gmail.com
+ - ⚡ Web developer and software engineering student;
+ - ⚡ Linkedin: [Mateus Gutierrez](https:https://www.linkedin.com/in/mateus-gutierrez-a991aa1b9);
+ - ⚡ E-mail: mateusgutierrez9@gmail.com
 
 <!--
 **MateusGutierrez/MateusGutierrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,7 +34,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-CSS" height="25" width="80" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Rafa-POSTGRESSQL" height="25" width="80" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
  <img align="center" alt="mATEUS-git" height="25" width="60" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-<!--   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <!--   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
  <br>
  </div>
