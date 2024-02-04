@@ -1,5 +1,3 @@
-### Olá! Eu sou o Mateus! 👋
-
  - ⚡ Web developer and software engineering student;
  - ⚡ Linkedin: [Mateus Gutierrez](https:https://www.linkedin.com/in/mateus-gutierrez-a991aa1b9);
  - ⚡ E-mail: mateusgutierrez9@gmail.com
