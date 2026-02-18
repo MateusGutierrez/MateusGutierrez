@@ -2,20 +2,6 @@
   <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
 
----
-<div align="center">
-  
-##  Mateus Maia Gutierrez
- 👩🏻‍💻 Desenvolvedor Fullstack<br>
- ⚡ Estudante de Engenharia de Software na Universidade Positivo<br>
-</div>
-
-<div align="center">
-  <a href="https://github.com/MateusGutierrez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusGutierrez&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGutierrez&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
-
 
    <!-- Distintivos de Linguagens e Habilidades -->
 <div style="display: inline_block" align="center"><br>
@@ -38,6 +24,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MateusGutierrez/MateusGutierrez/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MateusGutierrez/MateusGutierrez/output/github-contribution-grid-snake.svg">
 </picture>
-
----
 
