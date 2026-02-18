@@ -1,5 +1,6 @@
-<!-- Parte superior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4039a8&height=120&section=header"/>
+<div align="center">
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
+</div>
 
 ---
 <div align="center">
@@ -40,6 +41,3 @@
 
 ---
 
-<!-- Parte inferior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4039a8&height=120&section=footer"/>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
