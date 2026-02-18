@@ -1,35 +1,14 @@
-<!-- Parte superior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4039a8&height=120&section=header"/>
-
----
 <div align="center">
-  
-##  Mateus Maia Gutierrez
- 👩🏻‍💻 Desenvolvedor Fullstack<br>
- ⚡ Estudante de Engenharia de Software na Universidade Positivo<br>
+  <img src="./assets/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/MateusGutierrez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusGutierrez&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGutierrez&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
-
-
-   <!-- Distintivos de Linguagens e Habilidades -->
-<div style="display: inline_block" align="center"><br>
-  <img  alt="Lari-Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;
-  <img  alt="Lari-Ts" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
-  <img  alt="Lari-React"  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;
-  <img  alt="Lari-Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;
-  <img  alt="Lari-SQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
-</div>
- <br>
-
-<div align="center"> 
-  <a href = "mailto:mateusgutierrez9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mateus-gutierrez-a991aa1b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="mailto:mateusgutierrez9@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mateus-gutierrez-a991aa1b9/">
+    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAwIDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxIDEgMi4wNjMgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIgZmlsbD0iI2ZmZmZmZiIvPjwvc3ZnPg==" alt="LinkedIn"/>
+  </a>
 </div>
 
 <picture align="center" >
@@ -38,8 +17,3 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MateusGutierrez/MateusGutierrez/output/github-contribution-grid-snake.svg">
 </picture>
 
----
-
-<!-- Parte inferior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4039a8&height=120&section=footer"/>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
